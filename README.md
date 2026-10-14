@@ -1,27 +1,16 @@
-# saifullah-x
 # Hi, I'm Saif Ullah 👋
 
-**Aspiring Data Analyst** building skills step by step and documenting everything here.
+Aspiring **Data Analyst** from Karachi, Pakistan. I turn raw data into clear business insights.
 
-## 🎯 What I'm Doing Right Now
-- Learning SQL (joins, aggregations, window functions)
-- Practicing with real-world style datasets
-- Building portfolio projects
+## 🛠️ Currently learning and using
+- **Excel:** PivotTables, XLOOKUP, dashboards
+- **SQL:** *(learning)*
+- **Power BI:** *(learning)*
 
-## 🛠️ Skills
+## 📊 Projects
+| Project | What it shows | Tools |
+|---------|---------------|-------|
+| [Super-Store-Sales-Analysis](https://github.com/saifulllah-x/Super-Store-Sales-Analysis) | Cleaning and analysis of 9,800 retail orders, with an interactive dashboard | Excel |
 
-| Status | Tools |
-|--------|-------|
-| ✅ Comfortable | Excel (formulas, pivot tables, charts, dashboards) |
-| 📚 Learning | SQL |
-| 🔜 Up next | Python (Pandas), Power BI, Tableau |
-
-## 📂 Featured Projects
-- [Project Name](link): one line about what it shows
-- [Project Name](link): one line about what it shows
-
-## 📫 Connect With Me
-- LinkedIn: [your link]
-- Email: saifullahofficial2008.com
-
-*I update this profile as I grow. Feedback is welcome!*
+## 📫 Contact
+LinkedIn: *(add link)* · Email: *(add email)*
