@@ -13,4 +13,4 @@ Aspiring **Data Analyst** from Karachi, Pakistan. I turn raw data into clear bus
 | [Super-Store-Sales-Analysis](https://github.com/saifulllah-x/Super-Store-Sales-Analysis) | Cleaning and analysis of 9,800 retail orders, with an interactive dashboard | Excel |
 
 ## 📫 Contact
-LinkedIn: *()* · Email: *(saifullahofficial2008@gmail.com)*
+LinkedIn: *()* · Email: *saifullahofficial2008@gmail.com*
